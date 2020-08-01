@@ -1,2 +1,2 @@
 # sql-express
-Utilize SQL in an Express.js
+Utilize SQL in an Express.js app
